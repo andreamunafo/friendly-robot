@@ -1,2 +1,2 @@
-# number-five
-Repository where I play with ideas on deep learning and robotics
+# ML examples
+Repository where I play with simple ideas on deep learning and robotics
